@@ -1,5 +1,5 @@
-# Minjae Kim's Github 👨🏻‍💻
+### Welcome! My name is Minjae Kim
 
-Android Developer  
+- 💻 &nbsp; I'm an Android developer
 
-<img src="https://img.shields.io/github/followers/Man-jae?style=plastic"/></a>
+    <img src="https://img.shields.io/github/followers/Man-jae?style=plastic"/></a>
